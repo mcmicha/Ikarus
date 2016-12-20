@@ -11,9 +11,11 @@ You get pre-configured solutions for the DCS modules:
 - FW-190D9
 - KA-50
 - L-39C
+- L-39ZA
 - Mi-8MTV2
 - MiG-15Bis
 - MiG-21Bis
+- MiG-29A
 - MiG-29A
 - Mig-29S
 - P-51D
